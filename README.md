@@ -1,16 +1,81 @@
-# React + Vite
+# 🙂 Averra Mood 4/100
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I wanted to make something softer and more alive than my previous projects.
 
-Currently, two official plugins are available:
+So this one is a mood tracker with a calendar, daily notes and a clean pastel UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Still learning, still building, still trying to make things feel like actual products.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## what it does
 
-## Expanding the ESLint configuration
+* track your mood by day
+* save a short note for each entry
+* switch between months
+* see mood stats
+* view your current entry in a clean dashboard layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+basically: pick a day → choose a mood → write how it felt
+
+---
+
+## why I made it
+
+trying to build things that are not only “developer tools”
+
+also wanted to practice:
+
+* better layout structure
+* product-like UI
+* calendar logic
+* more emotional / lifestyle design
+
+---
+
+## stack
+
+react + vite
+tailwind (v4 + @tailwindcss/vite)
+
+---
+
+## run it
+
+```bash
+git clone https://github.com/averout/averra-mood.git
+cd averra-mood
+npm install
+npm run dev
+```
+
+---
+
+## next ideas
+
+* localStorage
+* dark mode
+* mood streaks
+* charts
+* weekly / monthly insights
+
+---
+
+## about me
+
+averout
+beginner frontend developer
+
+building small products and learning by doing
+
+telegram: @clqbs
+discord: clos3ddd
+
+---
+
+Averra Notes ✔️
+Averra Links ✔️
+Averra AI ✔️
+Averra Mood ✔️
+
+more coming.
